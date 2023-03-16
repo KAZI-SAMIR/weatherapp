@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-const Api_key = 'b2819acc1393c6464ec17a8582ce4198';
+const Api_key = 'your openweather apikey hear';
 
 function WeatherApi() {
 
